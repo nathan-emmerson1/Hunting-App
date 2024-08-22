@@ -1,0 +1,209 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%; /* Ensure full height for the body */
+  overflow-x: hidden; /* Prevent horizontal overflow */
+}
+
+.map-container {
+  width: 100vw; /* Ensure full width */
+  height: 100vh; /* Set height */
+  position: relative; /* Ensure it behaves as expected in its container */
+}
+
+.sidebar {
+  background-color: rgb(35 55 75 / 90%);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1; /* Ensure it's below the search bar */
+  position: absolute;
+  top: 80px; /* Increase to ensure it's below the search bar */
+  right: 10px; /* Adjust to your preference */
+  margin: 0;
+  border-radius: 4px;
+  background: rgba(35, 55, 75, 0.9); /* Ensure background is semi-transparent */
+}
+
+.container {
+  padding: 20px;
+  background-color: #f8f9fa; /* Light background */
+  border: 1px solid #dcdcdc; /* Light border */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  max-width: 300px;
+  margin: 0 auto; /* Center the widget */
+}
+
+.container h2 {
+  font-size: 24px;
+  color: #2c3e50;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.geocoder-container {
+  width: 100%;
+  max-width: 500px; /* Adjust the maximum width as needed */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Slight background for better visibility */
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+  padding: 10px;
+}
+
+.geocoder-wrapper {
+  display: flex;
+  justify-content: center; /* Centers the search bar horizontally */
+  width: 100%; /* Ensure the wrapper takes up the full width */
+  margin: 0 auto 10px auto; /* Center the wrapper with automatic horizontal margins */
+}
+
+.widget-container {
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border: rgb(from color r g b);
+}
+/* Nav bar css  */
+.navbar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  z-index: 200;
+}
+
+.navbar-search {
+  flex-grow: 2;
+  display: flex;
+  justify-content: center;
+  margin: 0 20px;
+  border-radius: 20px;
+}
+
+.navbar-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.navbar-buttons .btn:hover {
+  background-color: #ff7800;
+}
+
+/* HuntingSpotsDropdown.css */
+
+.dropdown-container {
+  position: absolute;
+  top: 70px;
+  left: 10px;
+  z-index: 1000; /* Ensure it's above the map */
+}
+
+.sidebar {
+  background-color: rgb(35 55 75 / 90%);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1; /* Ensure it's below the search bar */
+  position: absolute;
+  top: 70px; /* Increase to ensure it's below the search bar */ /* Adjust to your preference */
+  margin: 0;
+  border-radius: 4px;
+  background: rgba(35, 55, 75, 0.9); /* Ensure background is semi-transparent */
+}
+.dropdown-button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* windy app css  */
+
+.windy-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw; /* Ensure full width */
+  height: 100%; /* Set height */
+  padding-top: 50px;
+  z-index: 100;
+}
+
+#windyFrame {
+  width: 100vw;
+  height: 100vh;
+  border: none; /* Remove border if needed */
+}
+
+/* Hunting Spots cards */
+
+.spots-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px; /* Space between cards */
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+  border-radius: 8px;
+  position: absolute;
+  top: 60px; /* Adjust as needed */
+  left: 16px; /* Adjust as needed */
+  width: 300px; /* Adjust width as needed */
+  bottom: 80px;
+
+  z-index: 10; /* Ensure it's above the map */
+}
+
+.spot-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.spot-card:hover {
+  transform: scale(1.05);
+}
+
+.spot-image {
+  width: 100%;
+  height: 150px; /* Adjust height as needed */
+  object-fit: cover;
+}
+
+.spot-details {
+  padding: 12px;
+  text-align: center;
+}
+
+.spot-name {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+.spot-coords {
+  font-size: 0.9em;
+  color: #555;
+}
