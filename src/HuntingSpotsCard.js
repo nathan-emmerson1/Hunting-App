@@ -1,45 +1,8 @@
 import React from 'react'
 import './index.css' // Import CSS for styling
+import hungtingSpotImg from './images/cardcover.png'
 
-const HuntingSpotsCards = ({ onSpotSelect }) => {
-  const huntingSpots = [
-    {
-      name: 'Gisbonre',
-      description: 'Description for spot 1',
-      latitude: -38.65333,
-      longitude: 178.00417,
-      image: '/images/cardcover.png',
-    },
-    {
-      name: 'Napier',
-      description: 'Description for spot 2',
-      latitude: -38.65333,
-      longitude: 178.10417,
-      image: '../images/cardcover.png',
-    },
-    {
-      name: 'HawkesBay',
-      description: 'Description for spot 3',
-      latitude: -38.75333,
-      longitude: 178.00417,
-      image: '../images/cardcover.png',
-    },
-    {
-      name: 'Thames',
-      description: 'Description for spot 3',
-      latitude: -38.75333,
-      longitude: 178.00417,
-      image: '../images/cardcover.png',
-    },
-    {
-      name: 'Whangamata',
-      description: 'Description for spot 3',
-      latitude: -38.75333,
-      longitude: 178.00417,
-      image: '/images/cardcover.png',
-    },
-  ]
-
+const HuntingSpotsCards = ({ huntingSpots, onSpotSelect }) => {
   return (
     <div className="spots-container">
       {huntingSpots.map((spot, index) => (
@@ -48,7 +11,7 @@ const HuntingSpotsCards = ({ onSpotSelect }) => {
           className="spot-card"
           onClick={() => onSpotSelect(spot)}
         >
-          <img src={spot.image} alt={spot.name} className="spot-image" />
+          <img src={hungtingSpotImg} alt={spot.name} className="spot-image" />
           <div className="spot-details">
             <h4 className="spot-name">{spot.name}</h4>
             <p className="spot-coords">

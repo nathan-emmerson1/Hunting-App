@@ -18,6 +18,7 @@ const WindyMap = ({ coordinates }) => {
       changeWindyIframeCoordinates(coordinates[1], coordinates[0])
     }
   }, [coordinates])
+  // console.log(iframeRef)
 
   return (
     <div className="windy-container">

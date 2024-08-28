@@ -3,8 +3,14 @@ import mapboxgl from 'mapbox-gl'
 import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css'
 import MapboxGeocoder from '@mapbox/mapbox-gl-geocoder'
 import './index.css'
+import logo from './images/Logo.png'
 
-const Nav = ({ moveToLocation, toggleWindyMap, toggleMapboxMap }) => {
+const Nav = ({
+  moveToLocation,
+  toggleWindyMap,
+  toggleMapboxMap,
+  toggleMapTiler,
+}) => {
   const geocoderContainer = useRef(null)
 
   useEffect(() => {
@@ -39,14 +45,19 @@ const Nav = ({ moveToLocation, toggleWindyMap, toggleMapboxMap }) => {
 
   return (
     <nav className="navbar">
-      <div className="navbar-logo">MyLogo</div>
+      <div className="navbar-logo">
+        <img src={logo} alt="weka maps logo"></img>
+      </div>
       <div className="navbar-search" ref={geocoderContainer} />
       <div className="navbar-buttons">
-        <button className="btn" onClick={toggleWindyMap}>
-          Wind
+        <button className="btn-windy" onClick={toggleWindyMap}>
+          Windy
         </button>
-        <button className="btn" onClick={toggleMapboxMap}>
-          Street View
+        <button className="btn-satelite" onClick={toggleMapboxMap}>
+          Satelite
+        </button>
+        <button className="btn-maptiler" onClick={toggleMapTiler}>
+          Map Tiler
         </button>
       </div>
     </nav>

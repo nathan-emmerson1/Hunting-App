@@ -1,6 +1,6 @@
 const express = require('express')
 const bodyParser = require('body-parser')
-const cors = require('cors') // Import cors
+const cors = require('cors')
 const fs = require('fs')
 const path = require('path')
 
@@ -19,7 +19,7 @@ app.post('/api/save-location', (req, res) => {
 
   // Create or append to the data.json file
   const filePath = path.join(__dirname, 'data.json')
-  const newData = { locationName, locationId, coords }
+  const newData = { name: locationName, id: locationId, coords: coords }
 
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
@@ -36,6 +36,22 @@ app.post('/api/save-location', (req, res) => {
 
       res.status(200).json({ message: 'Location saved successfully' })
     })
+  })
+})
+
+// GET endpoint to retrieve card data
+app.get('/api/hunting-spots', (req, res) => {
+  const filePath = path.join(__dirname, 'huntingSpot.json')
+
+  fs.readFile(filePath, 'utf8', (err, data) => {
+    if (err) {
+      return res
+        .status(500)
+        .json({ message: 'Failed to read hunting spots file' })
+    }
+
+    const fileData = data ? JSON.parse(data) : []
+    res.status(200).json(fileData)
   })
 })
 

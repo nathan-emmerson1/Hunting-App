@@ -1,312 +1,612 @@
 [
   {
-    "locationName": "Māhia, Hawke's Bay, New Zealand",
-    "locationId": "Māhia,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.080585,177.87486"
+    "name": "Gisbonre",
+    "description": "Description for spot 1",
+    "latitude": -38.65333,
+    "longitude": 178.00417,
+    "image": "/images/cardcover.png"
   },
   {
-    "locationName": "Māhia, Hawke's Bay, New Zealand",
-    "locationId": "Māhia,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.080585,177.87486"
+    "name": "Napier",
+    "description": "Description for spot 2",
+    "latitude": -38.65333,
+    "longitude": 178.10417,
+    "image": "../images/cardcover.png"
   },
   {
-    "locationName": "Māhia, Hawke's Bay, New Zealand",
-    "locationId": "Māhia,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.080585,177.87486"
+    "name": "HawkesBay",
+    "description": "Description for spot 3",
+    "latitude": -38.75333,
+    "longitude": 178.00417,
+    "image": "../images/cardcover.png"
   },
   {
-    "locationName": "Hawke's Bay, New Zealand",
-    "locationId": "Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.4902099,176.917839"
+    "name": "Thames",
+    "description": "Description for spot 3",
+    "latitude": -38.75333,
+    "longitude": 178.00417,
+    "image": "../images/cardcover.png"
   },
   {
-    "locationName": "Māhia Beach, Māhia, Hawke's Bay 4198, New Zealand",
-    "locationId": "Māhia_Beach,_Māhia,_Hawke's_Bay_4198,_New_Zealand_z901",
-    "coords": "-39.085979,177.872483"
+    "name": "Whangamata",
+    "description": "Description for spot 3",
+    "latitude": -38.75333,
+    "longitude": 178.00417,
+    "image": "/images/cardcover.png"
   },
   {
-    "locationName": "Ashhurst, Manawatū-Whanganui, New Zealand",
-    "locationId": "Ashhurst,_Manawatū-Whanganui,_New_Zealand_z901",
-    "coords": "-40.289368,175.75526"
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
   },
   {
-    "locationName": "Māhia, Hawke's Bay, New Zealand",
-    "locationId": "Māhia,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.080585,177.87486"
-  },
-  {
-    "locationName": "Napier, Hawke's Bay, New Zealand",
-    "locationId": "Napier,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.489494,176.91814"
-  },
-  {
-    "locationName": "Auckland, Auckland, New Zealand",
-    "locationId": "Auckland,_Auckland,_New_Zealand_z901",
-    "coords": "-36.846996,174.76591"
-  },
-  {
-    "locationName": "Gisborne, New Zealand",
-    "locationId": "Gisborne,_New_Zealand_z901",
-    "coords": "-38.661326,178.0206487"
-  },
-  {
-    "locationName": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
-    "locationId": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
-    "coords": "-38.662672,177.980349"
-  },
-  {
-    "locationName": "Gisborne, Gisborne, New Zealand",
-    "locationId": "Gisborne,_Gisborne,_New_Zealand_z901",
-    "coords": "-38.666702,178.02371"
-  },
-  {
-    "locationName": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
-    "locationId": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
-    "coords": "-38.662672,177.980349"
-  },
-  {
-    "locationName": "Gisborne, Gisborne, New Zealand",
-    "locationId": "Gisborne,_Gisborne,_New_Zealand_z901",
-    "coords": "-38.666702,178.02371"
-  },
-  {
-    "locationName": "Napier",
-    "locationId": "Napier_z901",
-    "coords": "-39.5049,176.9084"
-  },
-  {
-    "locationName": "Gisborne",
-    "locationId": "Gisborne_z901",
-    "coords": "-38.6533300,178.0041700"
-  },
-  {
-    "locationName": "Mahia",
-    "locationId": "Mahia_z901",
-    "coords": "-39.0896,177.9222"
-  },
-  {
-    "locationName": "Māhia, Hawke's Bay, New Zealand",
-    "locationId": "Māhia,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.080585,177.87486"
-  },
-  {
-    "locationName": "Asda, 151 E Ferry Rd, London, England E14 3NE, United Kingdom",
-    "locationId": "Asda,_151_E_Ferry_Rd,_London,_England_E14_3NE,_United_Kingdom_z901",
-    "coords": "51.494479,-0.013334499999999999"
-  },
-  {
-    "locationName": "Wairoa, Hawke's Bay, New Zealand",
-    "locationId": "Wairoa,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.03344,177.42223"
-  },
-  {
-    "locationName": "Mahía, Rúa Juan de la Cierva 29, A Coruña, A Coruña 15008, Spain",
-    "locationId": "Mahía,_Rúa_Juan_de_la_Cierva_29,_A_Coruña,_A_Coruña_15008,_Spain_z901",
-    "coords": "43.354039,-8.426681"
-  },
-  {
-    "locationName": "Gisborne, Gisborne, New Zealand",
-    "locationId": "Gisborne,_Gisborne,_New_Zealand_z901",
-    "coords": "-38.666702,178.02371"
-  },
-  {
-    "locationName": "Tokyo, Tokyo Prefecture, Japan",
-    "locationId": "Tokyo,_Tokyo_Prefecture,_Japan_z901",
+    "name": "Tokyo, Tokyo Prefecture, Japan",
+    "id": "Tokyo,_Tokyo_Prefecture,_Japan_z901",
     "coords": "35.6889853,139.6929116"
   },
   {
-    "locationName": "Mahía, Rúa Juan de la Cierva 29, A Coruña, A Coruña 15008, Spain",
-    "locationId": "Mahía,_Rúa_Juan_de_la_Cierva_29,_A_Coruña,_A_Coruña_15008,_Spain_z901",
-    "coords": "43.354039,-8.426681"
-  },
-  {
-    "locationName": "New York, United States",
-    "locationId": "New_York,_United_States_z901",
+    "name": "New York, United States",
+    "id": "New_York,_United_States_z901",
     "coords": "42.751210955038,-75.4652471468304"
   },
   {
-    "locationName": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
-    "locationId": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
-    "coords": "-38.662672,177.980349"
-  },
-  {
-    "locationName": "Hawke's Bay Airport, Main North Rd, Napier, Hawke's Bay 4110, New Zealand",
-    "locationId": "Hawke's_Bay_Airport,_Main_North_Rd,_Napier,_Hawke's_Bay_4110,_New_Zealand_z901",
-    "coords": "-39.467411,176.8718515"
-  },
-  {
-    "locationName": "Spot 1",
-    "locationId": "",
+    "name": "Gisbonre",
+    "id": "",
     "coords": ""
   },
   {
-    "locationName": "Spot 2",
-    "locationId": "",
+    "name": "Napier",
+    "id": "",
     "coords": ""
   },
   {
-    "locationName": "Spot 3",
-    "locationId": "",
+    "name": "HawkesBay",
+    "id": "",
     "coords": ""
   },
   {
-    "locationName": "Spot 1",
-    "locationId": "",
+    "name": "Thames",
+    "id": "",
     "coords": ""
   },
   {
-    "locationName": "Spot 2",
-    "locationId": "",
+    "name": "Whangamata",
+    "id": "",
     "coords": ""
   },
   {
-    "locationName": "Spot 3",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Gisborne, Gisborne, New Zealand",
-    "locationId": "Gisborne,_Gisborne,_New_Zealand_z901",
-    "coords": "-38.666702,178.02371"
-  },
-  {
-    "locationName": "Sado Airport, 秋津1814-3, Sado, Niigata 952-0021, Japan",
-    "locationId": "Sado_Airport,_秋津1814-3,_Sado,_Niigata_952-0021,_Japan_z901",
-    "coords": "38.0618115,138.41132399999998"
-  },
-  {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
-    "locationId": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
     "coords": "-37.6714945,176.196809"
   },
   {
-    "locationName": "Wellington, Wellington, New Zealand",
-    "locationId": "Wellington,_Wellington,_New_Zealand_z901",
-    "coords": "-41.29132,174.77522"
+    "name": "Auckland Botanic Gardens, 102 Hill Rd, Auckland, Auckland 2105, New Zealand",
+    "id": "Auckland_Botanic_Gardens,_102_Hill_Rd,_Auckland,_Auckland_2105,_New_Zealand_z901",
+    "coords": "-37.012885499999996,174.9078295"
   },
   {
-    "locationName": "Wellington, Wellington, New Zealand",
-    "locationId": "Wellington,_Wellington,_New_Zealand_z901",
-    "coords": "-41.29132,174.77522"
-  },
-  {
-    "locationName": "Wellington, Florida, United States",
-    "locationId": "Wellington,_Florida,_United_States_z901",
-    "coords": "26.658562,-80.24118"
-  },
-  {
-    "locationName": "Asda, 151 E Ferry Rd, London, England E14 3NE, United Kingdom",
-    "locationId": "Asda,_151_E_Ferry_Rd,_London,_England_E14_3NE,_United_Kingdom_z901",
-    "coords": "51.494479,-0.013334499999999999"
-  },
-  {
-    "locationName": "Hawke's Bay Airport, Main North Rd, Napier, Hawke's Bay 4110, New Zealand",
-    "locationId": "Hawke's_Bay_Airport,_Main_North_Rd,_Napier,_Hawke's_Bay_4110,_New_Zealand_z901",
-    "coords": "-39.467411,176.8718515"
-  },
-  {
-    "locationName": "Gisborne, Gisborne, New Zealand",
-    "locationId": "Gisborne,_Gisborne,_New_Zealand_z901",
-    "coords": "-38.666702,178.02371"
-  },
-  {
-    "locationName": "Napier, Hawke's Bay, New Zealand",
-    "locationId": "Napier,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.489494,176.91814"
-  },
-  {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Spot 2",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
-    "locationId": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
-    "coords": "-38.662672,177.980349"
-  },
-  {
-    "locationName": "Hawke's Bay Airport, Main North Rd, Napier, Hawke's Bay 4110, New Zealand",
-    "locationId": "Hawke's_Bay_Airport,_Main_North_Rd,_Napier,_Hawke's_Bay_4110,_New_Zealand_z901",
-    "coords": "-39.467411,176.8718515"
-  },
-  {
-    "locationName": "SDF-3, Concepción, Biobío 4030000, Chile",
-    "locationId": "SDF-3,_Concepción,_Biobío_4030000,_Chile_z901",
-    "coords": "-36.828492,-73.007851"
-  },
-  {
-    "locationName": "Australia",
-    "locationId": "Australia_z901",
-    "coords": "-25.7349684916223,134.489562606981"
-  },
-  {
-    "locationName": "Australia",
-    "locationId": "Australia_z901",
-    "coords": "-25.7349684916223,134.489562606981"
-  },
-  {
-    "locationName": "Napier, Hawke's Bay, New Zealand",
-    "locationId": "Napier,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.489494,176.91814"
-  },
-  {
-    "locationName": "Auckland, Auckland, New Zealand",
-    "locationId": "Auckland,_Auckland,_New_Zealand_z901",
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
     "coords": "-36.846996,174.76591"
   },
   {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
+    "name": "Taunton, Somerset, England, United Kingdom",
+    "id": "Taunton,_Somerset,_England,_United_Kingdom_z901",
+    "coords": "51.015034,-3.102989"
   },
   {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Spot 2",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Spot 3",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Spot 1",
-    "locationId": "",
-    "coords": ""
-  },
-  {
-    "locationName": "Napier, Hawke's Bay, New Zealand",
-    "locationId": "Napier,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.489494,176.91814"
-  },
-  {
-    "locationName": "Napier, Hawke's Bay, New Zealand",
-    "locationId": "Napier,_Hawke's_Bay,_New_Zealand_z901",
-    "coords": "-39.489494,176.91814"
-  },
-  {
-    "locationName": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
-    "locationId": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
     "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Taunton, Massachusetts, United States",
+    "id": "Taunton,_Massachusetts,_United_States_z901",
+    "coords": "41.901627,-71.09305"
+  },
+  {
+    "name": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
+    "id": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
+    "coords": "-38.662672,177.980349"
+  },
+  {
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
+    "coords": "-36.846996,174.76591"
+  },
+  {
+    "name": "ADDG Clube de Tiro, R. Gávea, 1243-1327 - Vila Maria, São Paulo, São Paulo 02121, Brazil",
+    "id": "ADDG_Clube_de_Tiro,_R._Gávea,_1243-1327_-_Vila_Maria,_São_Paulo,_São_Paulo_02121,_Brazil_z901",
+    "coords": "-23.516602,-46.582268"
+  },
+  {
+    "name": "Taunton, Somerset, England, United Kingdom",
+    "id": "Taunton,_Somerset,_England,_United_Kingdom_z901",
+    "coords": "51.015034,-3.102989"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Taunton, Somerset, England, United Kingdom",
+    "id": "Taunton,_Somerset,_England,_United_Kingdom_z901",
+    "coords": "51.015034,-3.102989"
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Taupō, Waikato, New Zealand",
+    "id": "Taupō,_Waikato,_New_Zealand_z901",
+    "coords": "-38.68732,176.06961"
+  },
+  {
+    "name": "Hawke's Bay Airport, Main North Rd, Napier, Hawke's Bay 4110, New Zealand",
+    "id": "Hawke's_Bay_Airport,_Main_North_Rd,_Napier,_Hawke's_Bay_4110,_New_Zealand_z901",
+    "coords": "-39.467411,176.8718515"
+  },
+  {
+    "name": "Nūhaka, Hawke's Bay, New Zealand",
+    "id": "Nūhaka,_Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.04304,177.7401"
+  },
+  {
+    "name": "Taunton, Somerset, England, United Kingdom",
+    "id": "Taunton,_Somerset,_England,_United_Kingdom_z901",
+    "coords": "51.015034,-3.102989"
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Chillán, Ñuble, Chile",
+    "id": "Chillán,_Ñuble,_Chile_z901",
+    "coords": "-36.607876,-72.10126"
+  },
+  {
+    "name": "Chillicothe, Ohio, United States",
+    "id": "Chillicothe,_Ohio,_United_States_z901",
+    "coords": "39.333187,-82.9821"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
+    "coords": "-36.846996,174.76591"
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Hawke's Bay, New Zealand",
+    "id": "Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.4902099,176.917839"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Gisborne Airport, Aerodrome Rd., Gisborne, Gisborne 4071, New Zealand",
+    "id": "Gisborne_Airport,_Aerodrome_Rd.,_Gisborne,_Gisborne_4071,_New_Zealand_z901",
+    "coords": "-38.662672,177.980349"
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "New Zealand",
+    "id": "New_Zealand_z901",
+    "coords": "-41.8388752215127,171.779900195937"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Australian Capital Territory, Australia",
+    "id": "Australian_Capital_Territory,_Australia_z901",
+    "coords": "-35.5256727011966,148.965547986682"
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Brisbane Airport, 11 The Circuit, Brisbane, Queensland 4008, Australia",
+    "id": "Brisbane_Airport,_11_The_Circuit,_Brisbane,_Queensland_4008,_Australia_z901",
+    "coords": "-27.3889255,153.11675125"
+  },
+  {
+    "name": "Napier, Hawke's Bay, New Zealand",
+    "id": "Napier,_Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.489494,176.91814"
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Australia",
+    "id": "Australia_z901",
+    "coords": "-25.7349684916223,134.489562606981"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Canada",
+    "id": "Canada_z901",
+    "coords": "55.5859012851966,-105.750595856519"
+  },
+  {
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
+    "coords": "-36.846996,174.76591"
+  },
+  {
+    "name": "Canada",
+    "id": "Canada_z901",
+    "coords": "55.5859012851966,-105.750595856519"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Canada",
+    "id": "Canada_z901",
+    "coords": "55.5859012851966,-105.750595856519"
+  },
+  {
+    "name": "Napier, Hawke's Bay, New Zealand",
+    "id": "Napier,_Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.489494,176.91814"
+  },
+  {
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
+    "coords": "-36.846996,174.76591"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Auckland, Auckland, New Zealand",
+    "id": "Auckland,_Auckland,_New_Zealand_z901",
+    "coords": "-36.846996,174.76591"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Christchurch, Canterbury, New Zealand",
+    "id": "Christchurch,_Canterbury,_New_Zealand_z901",
+    "coords": "-43.533398,172.63759"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Napier, Hawke's Bay, New Zealand",
+    "id": "Napier,_Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.489494,176.91814"
+  },
+  {
+    "name": "Hawke's Bay, New Zealand",
+    "id": "Hawke's_Bay,_New_Zealand_z901",
+    "coords": "-39.4902099,176.917839"
+  },
+  {
+    "name": "Thames, Waikato, New Zealand",
+    "id": "Thames,_Waikato,_New_Zealand_z901",
+    "coords": "-37.13847,175.54062"
+  },
+  {
+    "name": "Whangamatā, Waikato, New Zealand",
+    "id": "Whangamatā,_Waikato,_New_Zealand_z901",
+    "coords": "-37.204144,175.87378"
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Lodon Mews, Pencombe, Bromyard, HR7 4RN, United Kingdom",
+    "id": "Lodon_Mews,_Pencombe,_Bromyard,_HR7_4RN,_United_Kingdom_z901",
+    "coords": "52.17137,-2.58829"
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "HawkesBay",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Thames",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Whangamata",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Gisbonre",
+    "id": "",
+    "coords": ""
+  },
+  {
+    "name": "Napier",
+    "id": "",
+    "coords": ""
   }
 ]
