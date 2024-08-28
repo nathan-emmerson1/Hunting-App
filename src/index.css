@@ -246,27 +246,18 @@ body {
 .spots-container {
   display: flex;
   flex-direction: column;
-  gap: 16px; /* Space between cards */
+  gap: 16px;
   padding: 16px;
-  background: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+  background: rgba(255, 255, 255, 0.8);
   border-radius: 8px;
   position: absolute;
-  top: 60px; /* Adjust as needed */
-  left: 16px; /* Adjust as needed */
-  width: 300px; /* Adjust width as needed */
+  top: 60px;
+  left: 16px;
+  width: 300px;
   bottom: 80px;
   overflow: scroll;
 
-  z-index: 10; /* Ensure it's above the map */
-}
-
-.spots-container {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem; /* Space between cards */
-  padding: 1rem;
-  background-color: #f0f4f8; /* Light background color for contrast */
-  border-radius: 10px; /* Rounded corners for the entire container */
+  z-index: 10;
 }
 
 .spot-card {
