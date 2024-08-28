@@ -11,7 +11,7 @@ const HuntingSpotsCards = ({ huntingSpots, onSpotSelect }) => {
           className="spot-card"
           onClick={() => onSpotSelect(spot)}
         >
-          <img src={hungtingSpotImg} alt={spot.name} className="spot-image" />
+          <img src={hungtingSpotImg} alt={spot.name} className="spot-image" />{' '}
           <div className="spot-details">
             <h4 className="spot-name">{spot.name}</h4>
             <p className="spot-coords">

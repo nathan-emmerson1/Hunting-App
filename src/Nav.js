@@ -56,9 +56,6 @@ const Nav = ({
         <button className="btn-satelite" onClick={toggleMapboxMap}>
           Satelite
         </button>
-        <button className="btn-maptiler" onClick={toggleMapTiler}>
-          Map Tiler
-        </button>
       </div>
     </nav>
   )

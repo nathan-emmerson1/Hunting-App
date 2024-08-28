@@ -33,14 +33,7 @@
     "latitude": -37.2041,
     "longitude": 175.8738,
     "image": "./images/cardcover.png"
-  },
-  {
-    "name": "Whangamata",
-    "description": "Description for spot 3",
-    "latitude": -38.75333,
-    "longitude": 178.00417,
-    "image": "/images/cardcover.png"
   }
-  
+
 
 ]
