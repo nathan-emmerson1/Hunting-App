@@ -1,6 +1,6 @@
 [
   {
-    "name": "Gisbonre",
+    "name": "Gisborne",
     "description": "Description for spot 1",
     "latitude": -38.65333,
     "longitude": 178.00417,
@@ -658,5 +658,40 @@
     "name": "Whangamata",
     "id": "",
     "coords": ""
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Tauranga Airport, 73 Jean Batten Drive, Mount Maunganui, Bay of Plenty 3116, New Zealand",
+    "id": "Tauranga_Airport,_73_Jean_Batten_Drive,_Mount_Maunganui,_Bay_of_Plenty_3116,_New_Zealand_z901",
+    "coords": "-37.6714945,176.196809"
+  },
+  {
+    "name": "Gisikdrono, 50149, Semarang Barat, Semarang City, Central Java, Indonesia",
+    "id": "Gisikdrono,_50149,_Semarang_Barat,_Semarang_City,_Central_Java,_Indonesia_z901",
+    "coords": "-6.98383,110.387674"
+  },
+  {
+    "name": "Tauranga, Bay of Plenty, New Zealand",
+    "id": "Tauranga,_Bay_of_Plenty,_New_Zealand_z901",
+    "coords": "-37.684353,176.16905"
+  },
+  {
+    "name": "Gisborne, Gisborne, New Zealand",
+    "id": "Gisborne,_Gisborne,_New_Zealand_z901",
+    "coords": "-38.666702,178.02371"
   }
 ]

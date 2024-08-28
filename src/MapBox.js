@@ -1,4 +1,3 @@
-// MapBox.js
 import React, { useRef, useEffect, useState, useCallback } from 'react'
 import mapboxgl from 'mapbox-gl'
 import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css'
@@ -59,7 +58,7 @@ const Mapbox = ({ lng, lat, zoom, onLocationChange, marker }) => {
         }
       })
     } else if (map.current) {
-      // Check if map state has changed before calling flyTo
+      // Check if map state has changed before updating the map
       const formattedLng = Number(lng).toFixed(4)
       const formattedLat = Number(lat).toFixed(4)
       const formattedZoom = Number(zoom).toFixed(2)
@@ -69,13 +68,9 @@ const Mapbox = ({ lng, lat, zoom, onLocationChange, marker }) => {
         currentState.lat !== formattedLat ||
         currentState.zoom !== formattedZoom
       ) {
-        console.log('Updating map state')
-        map.current.flyTo({
-          center: [lng, lat],
-          zoom: zoom,
-          essential: true,
-          duration: 5000,
-        })
+        console.log('Updating map view')
+        map.current.setCenter([lng, lat]) // Directly set the map center without animation
+        map.current.setZoom(zoom) // Directly set the map zoom without animation
         setCurrentState({
           lng: formattedLng,
           lat: formattedLat,

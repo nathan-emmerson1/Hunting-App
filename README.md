@@ -1,6 +1,6 @@
 # Weka Hunting Maps
 
-
+**Product Owner:** Evandah
 
 ## Overview
 
@@ -30,4 +30,4 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/weka-hunting-maps.git
+   git clone https://github.com/nathan-emmerson1/Weka-Hunting-Maps

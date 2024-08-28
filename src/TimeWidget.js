@@ -1,7 +1,8 @@
 // TimeSunriseSunsetWidget.js
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
-const MY_API_KEY = '42962f68ee681faf0de0fce3b06e41fa'
+
+const MY_API_KEY = '98d4af4361c75cb1681c74f25944de42'
 
 const TimeSunriseSunsetWidget = ({ lat, lng }) => {
   const [time, setTime] = useState('')

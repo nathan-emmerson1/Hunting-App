@@ -1,4 +1,3 @@
-// App.js
 import React, { useCallback, useState, useEffect } from 'react'
 import Nav from './Nav'
 import HuntingSpotsCards from './HuntingSpotsCard'
@@ -14,7 +13,8 @@ const App = () => {
   const [showWindyMap, setShowWindyMap] = useState(false)
   const [searchCoordinates, setSearchCoordinates] = useState([lng, lat])
   const [huntingSpots, setHuntingSpots] = useState([])
-  const [marker, setMarker] = useState([lng, lat]) // Default marker
+  const [marker, setMarker] = useState([lng, lat])
+  const [coordinatesSet, setCoordinatesSet] = useState(false) // Track if coordinates are set
 
   const fetchHuntingSpots = useCallback(async () => {
     try {
@@ -40,6 +40,7 @@ const App = () => {
       setZoom(11) // Reset zoom if needed
       setSearchCoordinates([newLng, newLat])
       setMarker([newLng, newLat]) // Update marker position
+      setCoordinatesSet(true) // Mark coordinates as set
 
       try {
         const response = await fetch(
@@ -61,6 +62,14 @@ const App = () => {
     },
     [fetchHuntingSpots]
   )
+
+  useEffect(() => {
+    if (coordinatesSet) {
+      // Make the request here if needed after coordinates are set
+      // For example, you could also fetch some additional data based on the coordinates
+      // setCoordinatesSet(false) // Reset after making the request if necessary
+    }
+  }, [coordinatesSet])
 
   const handleSpotSelect = (spot) => {
     moveToLocation(spot.longitude, spot.latitude, spot.name, '', '')
@@ -98,6 +107,7 @@ const App = () => {
                 setLng(lng)
                 setLat(lat)
                 setZoom(zoom)
+                setCoordinatesSet(false) // Reset coordinates set flag when location changes
               }}
               marker={marker} // Pass marker position
             />
